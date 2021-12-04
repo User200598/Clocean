@@ -1,0 +1,15 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+      },
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
+      "eslint.validate": ["javascript"],
+      // "http.proxy": "",
+      // "http.proxyAuthorization": null,
+      // "http.proxyStrictSSL": false
+      "better-comments.highlightPlainText": false,
+      "git.ignoreLimitWarning": true,
+      // "peacock.color": "#61dafb"
+    }
